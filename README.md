@@ -13,4 +13,4 @@ Image currently used for testing purposes and still hasn't been tested in produc
 
 Run the container with the following command:
 
-`docker run -ti -p 127.0.0.1:22005:22005/tcp -p 127.0.0.1:22005:22005/udp -p 127.0.0.1:22006:22006/tcp -p 127.0.0.1:22006:22006/udp champa99/ragemp:dev`
+`docker run -ti -p 127.0.0.1:22005:22005/tcp -p 127.0.0.1:22005:22005/udp -p 127.0.0.1:22006:22006/tcp -p 127.0.0.1:22006:22006/udp champa99/ragemp`
