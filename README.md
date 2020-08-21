@@ -2,8 +2,14 @@
 
 Docker images that runs the RageMP server on a Debian environment.
 
+Base image: https://hub.docker.com/_/debian
+
+## Summary
+
 The actual game server is running under port 22005 while the http server is under 22006.
 Image currently used for testing purposes and still hasn't been tested in production environment. (Will update once it has been tested)
+
+## Running
 
 Run the container with the following command:
 
